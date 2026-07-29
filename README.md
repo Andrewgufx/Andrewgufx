@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I love building things and sharing my knowledge wi
 <!-- You can add or remove skills by changing the abbreviations after "i=" -->
 <h3>🛠️ Tech Stack</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,docker,git,aws,linux,vscode" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,pandas,docker,git,aws,linux,vscode" alt="My Skills" />
 </a>
 
 <br/>
@@ -70,7 +70,6 @@ Welcome to my GitHub profile! I love building things and sharing my knowledge wi
 <!-- These update automatically every time you code -->
 <h3>📊 GitHub Activity</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
