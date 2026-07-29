@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I love building things and sharing my knowledge wi
 <!-- 2. GITHUB TROPHIES -->
 <!-- Dynamically ranks your commits, stars, issues, and PRs into trophies -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=andrewgufx&theme=darkhub" alt="GitHub Trophies" />
 </a>
 
 <br/>
@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I love building things and sharing my knowledge wi
 <!-- You can add or remove skills by changing the abbreviations after "i=" -->
 <h3>🛠️ Tech Stack</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,pandas,docker,git,aws,linux,vscode" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,docker,git,aws,linux,vscode" alt="My Skills" />
 </a>
 
 <br/>
