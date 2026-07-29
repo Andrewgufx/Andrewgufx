@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I love building things and sharing my knowledge wi
 <!-- 2. GITHUB TROPHIES -->
 <!-- Dynamically ranks your commits, stars, issues, and PRs into trophies -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrewgufx&theme=darkhub" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=andrewgufx&theme=darkhub">
 </a>
 
 <br/>
