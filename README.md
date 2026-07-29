@@ -8,15 +8,6 @@
 
 <br/>
 
-<!-- 2. GITHUB TROPHIES -->
-<!-- Dynamically ranks your commits, stars, issues, and PRs into trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=andrewgufx&theme=darkhub" alt="GitHub Trophies">
-</a>
-
-<br/>
-<br/>
-
 <!-- 3. DYNAMIC SKILL ICONS -->
 <!-- You can add or remove skills by changing the abbreviations after "i=" -->
 <h3>🛠️ Tech Stack</h3>
