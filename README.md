@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I love building things and sharing my knowledge wi
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **xxx**
+- 🔭 I’m currently on job market 
 - 🌱 I’m currently learning **AI related fields**
 - 📫 How to reach me: **andrew.gfux@gmail.com**
 - ⚡ Fun fact: **I am a AI music creator**（https://music.163.com/#/artist?id=125460339）
