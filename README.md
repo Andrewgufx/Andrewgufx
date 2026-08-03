@@ -6,14 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Data+Scientist;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </a>
 
-<br/>
 
-<!-- 3. DYNAMIC SKILL ICONS -->
-<!-- You can add or remove skills by changing the abbreviations after "i=" -->
-<h3>🛠️ Tech Stack</h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,docker,git,aws,linux,vscode" alt="My Skills" />
-</a>
 
 <br/>
 <br/>
